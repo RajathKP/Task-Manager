@@ -28,6 +28,6 @@ The Task Manager  is a simple command-line application for managing tasks. It al
 Run the application using the following command:
 
 ```
-
+jupyter execute Task Manager.ipynb
 
 ```
