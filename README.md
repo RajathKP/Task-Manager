@@ -50,4 +50,11 @@ After running the application, you will be prompted with following options :
 6. Exit
 
 ```
+
+### Add new Task
+
+Select 1 for add new task.
+Enter 
+
+
 ### Reference
