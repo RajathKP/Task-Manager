@@ -31,7 +31,7 @@ The Task Manager  is a simple command-line application for managing tasks. It al
 
 - Python 3.7 or higher.
 
-### Usage
+### How to run the application
 
 Run the application using the following command:
 
@@ -40,5 +40,14 @@ jupyter execute Task Manager.ipynb
 
 ```
 
+After running the application, you will be prompted with following options :
+```
+1. Add Task
+2. Delete Task
+3. View Tasks
+4. Search Task
+5. Complete Task
+6. Exit
 
+```
 ### Reference
