@@ -4,6 +4,14 @@ The Task Manager  is a simple command-line application for managing tasks. It al
 
 ### Objective
 
+### Project structure
+
+```
+|-- Task Manager.ipynb      # Main application file
+|-- README.md               # Documentation file
+
+```
+
 ### Features
 
 - Add Tasks: Create a new task with a title, description, priority, and deadline.
