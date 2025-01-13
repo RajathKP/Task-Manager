@@ -39,3 +39,6 @@ Run the application using the following command:
 jupyter execute Task Manager.ipynb
 
 ```
+
+
+### Reference
