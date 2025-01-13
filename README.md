@@ -19,7 +19,10 @@ The Task Manager  is a simple command-line application for managing tasks. It al
 - Simple Menu Navigation: Intuitive menu-driven interface for easy task management.
 
 
-
 ### Prerequisites
 
-Python 3.7 or higher
+- Python 3.7 or higher.
+
+   ### Usage
+
+Run the application using the following command:
