@@ -3,6 +3,7 @@
 The Task Manager  is a simple command-line application for managing tasks. It allows users to create, delete, view, search, and mark tasks as completed. This lightweight application is ideal for organizing daily activities efficiently.
 
 ### Objective
+Task management system aims to provide  users with a simple, efficient, and user-friendly way to store, retrieve, update, and delete tasks.
 
 ### Project structure
 
