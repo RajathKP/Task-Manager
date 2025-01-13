@@ -53,8 +53,29 @@ After running the application, you will be prompted with following options :
 
 ### Add new Task
 
-Select 1 for add new task.
-Enter 
+-Select 1 for add new task from main menu.
+-Enter the task title
+-Enter the task description.
+-Enter task priority level (Low,Medium,High).
+-Enter task deadline (YYYY-MM-DD).
+
+### Delete Task
+-Select 2 for add new task from main menu.
+-Enter task ID to delete.
+
+### View Tasks.
+-Select 3 for view task from main menu.
+-From the  following menu select
+    1. View All Tasks.
+    2. View Tasks Sorted by Priority.
+    3. View Tasks Sorted by Deadline.
+    
+### Search Task
+-Select 4 for view task from main menu.
+-Enter task ID to search.
+
+### Complete Task
+-Select 5 for Complete Task from main menu.
+-Enter task ID to mark as complete
 
 
-### Reference
